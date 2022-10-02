@@ -1,1 +1,1 @@
-# AkbankWEB3
+# Akbank Web3 Practicum Challenges
